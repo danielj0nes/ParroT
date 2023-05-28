@@ -9,6 +9,8 @@
 
 # :parrot: ParroT: Translating During Chat Using Large Language Models
 
+* https://huggingface.co/wxjiao/ParroT-7b/tree/main
+
 :fire: **Update**
 - The WMT22 test sets are made available.
 - For medium-to-small models (e.g., 7B), we recommend ZeRO2+offload rather than ZerO3; use gradient accumulation to maximize GPU usage.
